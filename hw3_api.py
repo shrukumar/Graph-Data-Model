@@ -82,16 +82,3 @@ class RedisAPI:
         recommended_books = (friend_books - set(books))
 
         return recommended_books
-            
-
-
-
-
-
-
-
-
-
-    
-
-    
