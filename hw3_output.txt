@@ -1,0 +1,21 @@
+a. What is the sum of all book prices?
+sum_book_prices
+253.45
+
+b. Who does spencer know?
+name
+Emily
+Brendan
+
+c. What books did Spencer buy?
+title           price
+Cosmos	        17
+Database Design	195
+
+d. Who knows each other?
+person1  person2
+Emily	 Spencer
+
+e. What books were purchased by people who Spencer knows? Exclude books that Spencer already owns
+book_title
+DNA and you
